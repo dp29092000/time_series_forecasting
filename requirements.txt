@@ -6,5 +6,5 @@ statsmodels
 numpy
 joblib
 scikit-learn
-tensorflow==2.20.0
+tensorflow
 xgboost==3.2.0
